@@ -1,0 +1,32 @@
+----------------------------------------------------------------
+Mon Dec 02 13:23:38 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016e-c599-c020-0000063eb058 
+on database directory memory:D:\Chandu Priya\equniox workspace\Employee\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/chandupriyam/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=D:\Chandu Priya\equniox workspace\Employee
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Dec 02 13:24:45 IST 2019:
+Shutting down instance a816c00e-016e-c599-c020-0000063eb058 on database directory memory:D:\Chandu Priya\equniox workspace\Employee\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Mon Dec 02 13:24:46 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 176240b2-016e-c599-c020-0000063eb058 
+on database directory memory:D:\Chandu Priya\equniox workspace\Employee\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/chandupriyam/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=D:\Chandu Priya\equniox workspace\Employee
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Dec 02 13:25:45 IST 2019:
+Shutting down instance 176240b2-016e-c599-c020-0000063eb058 on database directory memory:D:\Chandu Priya\equniox workspace\Employee\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
